@@ -1,7 +1,7 @@
 import React from 'react'
-import {  Banner, Slider } from '../../components/Home/BannerAboutSlider'
-import { Feature, Product } from '../../components/Home/FeatureProduct'
-import { Contact, Form } from '../../components/Home/contactForm'
+import {  Banner, Slider } from '../../components/Home/BannerAboutSlider.jsx'
+import { Feature, Product } from '../../components/Home/FeatureProduct.jsx'
+import { Contact, Form } from '../../components/Home/ContactForm.jsx'
 
 function Home() {
   return (
